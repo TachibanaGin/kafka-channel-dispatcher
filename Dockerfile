@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/kafka/channel/cmd/channel_dispatcher@sha256:8b3052d6370bcf6a4cc4cb72a80428283e6380c4573199a40e74271811e59fe9
+MAINTAINER hatchin
